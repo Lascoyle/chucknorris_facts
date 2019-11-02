@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section
+{
+    width: 33%;
+    margin: auto;
+    margin-top: 175px;
+    padding: 10px; 
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+#author
+{
+    font-weight: 100;
+    font-size: 0.6em;
+}
+
+button
+{   
+
+    border: none;
+    width: 20%;
+    height: 40px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    font-size: 0.4em;
+}
